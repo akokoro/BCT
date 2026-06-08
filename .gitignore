@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Training outputs and generated figures
+/results/
+*.pt
+*.pth
+*.ckpt
+*.png
+*.pdf
+*.svg
+*.log
+*.zip
